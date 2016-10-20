@@ -1,0 +1,19 @@
+{
+  "name": "@teradactol/mongoose-crud-sys",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ghostfreak3000@github.com/teradactol/mongoose-crud-sys.git"
+  },
+  "author": "Bishaka Samuel <sbishaka@gmail.com> (https://twitter.com/sbishaka)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teradactol/mongoose-crud-sys/issues"
+  },
+  "homepage": "https://github.com/teradactol/mongoose-crud-sys#readme"
+}
